@@ -16,7 +16,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Railway
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/Tg_Vc_MuzicPlayer&envs=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/The-Death-Soul/Tg_Vc_MuzicPlayer&envs=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION)
 
 ### Local Deploy
 1) Installing NodeJS
@@ -32,7 +32,7 @@ sudo apt-get install git ffmpeg -y
 
 3) Cloning the Repo
 ```bash
-git clone https://github.com/S780821/Tg_Vc_MuzicPlayer
+git clone https://github.com/The-Death-Soul/Tg_Vc_MuzicPlayer
 cd Tg_Vc_MuzicPlayer
 ```
 
