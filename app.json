@@ -1,13 +1,13 @@
 {
     "name": "Tg_Vc_MuzicPlayer",
     "description": "A Telegram Userbot to play Songs in Voice Chat",
-    "logo": "https://telegra.ph/file/bf3d5334efaa345955275.jpg",
+    "logo": "https://te.legra.ph/file/987200ed0d4c5f6637f64.jpg",
     "keywords": [
         "Telegram",
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/S780821/Tg_Vc_MuzicPlayer",
+    "repository": "https://github.com/The-Death-Soul/Tg_Vc_MuzicPlayer",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
